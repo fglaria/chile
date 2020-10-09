@@ -1,0 +1,130 @@
+[
+    {
+        "nombre": "Región de Arica y Parinacota",
+        "abreviacion": "AP",
+        "capital": "Arica",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región de Tarapacá",
+        "abreviacion": "TA",
+        "capital": "Iquique",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región de Antofagasta",
+        "abreviacion": "AN",
+        "capital": "Antofagasta",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región de Atacama",
+        "abreviacion": "AT",
+        "capital": "Copiapó",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región de Coquimbo",
+        "abreviacion": "CO",
+        "capital": "La Serena",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región de Valparaíso",
+        "abreviacion": "VS",
+        "capital": "Valparaíso",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región Metropolitana de Santiago",
+        "abreviacion": "RM",
+        "capital": "Santiago",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región del Libertador General Bernardo O'Higgins",
+        "abreviacion": "LI",
+        "capital": "Rancagua",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región del Maule",
+        "abreviacion": "ML",
+        "capital": "Talca",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región de Ñuble",
+        "abreviacion": "NB",
+        "capital": "Chillán",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región del Biobío",
+        "abreviacion": "BI",
+        "capital": "Concepción",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región de La Araucanía",
+        "abreviacion": "AR",
+        "capital": "Temuco",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región de Los Ríos",
+        "abreviacion": "LR",
+        "capital": "Valdivia",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región de Los Lagos",
+        "abreviacion": "LL",
+        "capital": "Puerto Montt",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región de Aysén del General Carlos Ibáñez del Campo",
+        "abreviacion": "AI",
+        "capital": "Coyhaique",
+        "provincias":
+        [
+        ]
+    },
+    {
+        "nombre": "Región de Magallanes y de la Antártica Chilena",
+        "abreviacion": "MA",
+        "capital": "Coyhaique",
+        "provincias":
+        [
+        ]
+    },
+]
