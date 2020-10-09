@@ -5,6 +5,20 @@
         "capital": "Arica",
         "provincias":
         [
+            {
+                "nombre": "Arica",
+                "capital": "Arica",
+                "comunas": 
+                [
+                ]
+            },
+            {
+                "nombre": "Parinacota",
+                "capital": "Putre",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -13,6 +27,20 @@
         "capital": "Iquique",
         "provincias":
         [
+            {
+                "nombre": "Iquique",
+                "capital": "Iquique",
+                "comunas": 
+                [
+                ]
+            },
+            {
+                "nombre": "El Tamarugal",
+                "capital": "Pozo Almonte",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -21,6 +49,27 @@
         "capital": "Antofagasta",
         "provincias":
         [
+            {
+                "nombre": "Antofagasta",
+                "capital": "Antofagasta",
+                "comunas": 
+                [
+                ]
+            },
+            {
+                "nombre": "El Loa",
+                "capital": "Calama",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Tocopilla",
+                "capital": "Tocopilla",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -29,6 +78,27 @@
         "capital": "Copiapó",
         "provincias":
         [
+            {
+                "nombre": "Chañaral",
+                "capital": "Chañaral",
+                "comunas": 
+                [
+                ]
+            },
+            {
+                "nombre": "Copiapó",
+                "capital": "Copiapó",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Huasco",
+                "capital": "Vallenar",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -37,6 +107,27 @@
         "capital": "La Serena",
         "provincias":
         [
+            {
+                "nombre": "Choapa",
+                "capital": "Illapel",
+                "comunas": 
+                [
+                ]
+            },
+            {
+                "nombre": "Elqui",
+                "capital": "Coquimbo",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Limarí",
+                "capital": "Ovalle",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -45,6 +136,62 @@
         "capital": "Valparaíso",
         "provincias":
         [
+            {
+                "nombre": "Isla de Pascua",
+                "capital": "Hanga Roa",
+                "comunas": 
+                [
+                ]
+            },
+            {
+                "nombre": "Los Andes",
+                "capital": "Los Andes",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Petorca",
+                "capital": "La Ligua",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Quillota",
+                "capital": "Quillota",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "San Antonio",
+                "capital": "San Antonio",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "San Felipe de Aconcagua",
+                "capital": "San Felipe",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Valparaíso",
+                "capital": "Valparaíso",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Marga Marga",
+                "capital": "Quilpué",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -53,6 +200,48 @@
         "capital": "Santiago",
         "provincias":
         [
+            {
+                "nombre": "Chacabuco",
+                "capital": "Colina",
+                "comunas": 
+                [
+                ]
+            },
+            {
+                "nombre": "Cordillera",
+                "capital": "Puente Alto",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Maipo",
+                "capital": "San Bernardo",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Melipilla",
+                "capital": "Melipilla",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Santiago",
+                "capital": "Santiago",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Talagante",
+                "capital": "Talagante",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -61,6 +250,27 @@
         "capital": "Rancagua",
         "provincias":
         [
+            {
+                "nombre": "Cachapoal",
+                "capital": "Rancagua",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Cardenal Caro",
+                "capital": "Pichilemu",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Colchagua",
+                "capital": "San Fernando",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -69,6 +279,34 @@
         "capital": "Talca",
         "provincias":
         [
+            {
+                "nombre": "Cauquenes",
+                "capital": "Cauquenes",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Curicó",
+                "capital": "Curicó",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Linares",
+                "capital": "Linares",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Talca",
+                "capital": "Talca",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -77,6 +315,27 @@
         "capital": "Chillán",
         "provincias":
         [
+            {
+                "nombre": "Itata",
+                "capital": "Quirihue",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Diguillín",
+                "capital": "Bulnes",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Pullina",
+                "capital": "San Carlos",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -85,6 +344,27 @@
         "capital": "Concepción",
         "provincias":
         [
+            {
+                "nombre": "Arauco",
+                "capital": "Lebu",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Biobío",
+                "capital": "Los Ángeles",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Concepción",
+                "capital": "Concepción",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -93,6 +373,20 @@
         "capital": "Temuco",
         "provincias":
         [
+            {
+                "nombre": "Cautín",
+                "capital": "Temuco",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Malleco",
+                "capital": "Angol",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -101,6 +395,20 @@
         "capital": "Valdivia",
         "provincias":
         [
+            {
+                "nombre": "Valdivia",
+                "capital": "Valdivia",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Ranco",
+                "capital": "La Unión",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -109,6 +417,34 @@
         "capital": "Puerto Montt",
         "provincias":
         [
+            {
+                "nombre": "Chiloé",
+                "capital": "Castro",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Llanquihue",
+                "capital": "Puerto Montt",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Osorno",
+                "capital": "Osorno",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Palena",
+                "capital": "Chaitén",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -117,6 +453,34 @@
         "capital": "Coyhaique",
         "provincias":
         [
+            {
+                "nombre": "Aysén",
+                "capital": "Puerto Aysén",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Capitán Prat",
+                "capital": "Cochrane",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Coyhaique",
+                "capital": "Coyhaique",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "General Carrera",
+                "capital": "Chile Chico",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
     {
@@ -125,6 +489,34 @@
         "capital": "Coyhaique",
         "provincias":
         [
+            {
+                "nombre": "Antártica Chilena",
+                "capital": "Puerto Williams",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Magallanes",
+                "capital": "Punta Arenas",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Tierra del Fuego",
+                "capital": "Porvenir",
+                "comunas":
+                [
+                ]
+            },
+            {
+                "nombre": "Última Esperanza",
+                "capital": "Puerto Natales",
+                "comunas":
+                [
+                ]
+            }
         ]
     },
 ]
