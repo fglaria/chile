@@ -1,0 +1,98 @@
+[
+    {
+        "nombre": "Ministerio del Interior y Seguridad Pública",
+        "acronimos": ["Mininterior"],
+    },
+    {
+        "nombre": "Ministerio de Relaciones Exteriores",
+        "acronimos": ["Minrel", "Min. RR.EE."],
+    },
+    {
+        "nombre": "Ministerio de Defensa Nacional",
+        "acronimos": ["MDN", "Mindef"],
+    },
+    {
+        "nombre": "Ministerio de Hacienda",
+        "acronimos": ["Minhacienda"],
+    },
+    {
+        "nombre": "Ministerio Secretaría General de la Presidencia",
+        "acronimos": ["MSGP-SEGPRES", "Minsegpres"],
+    },
+    {
+        "nombre": "Ministerio Secretaria General de Gobierno",
+        "acronimos": ["MSGG-Segegob", "Minsegegob"],
+    },
+    {
+        "nombre": "Ministerio de Economía, Fomento y Turismo",
+        "acronimos": ["Mineco"],
+    },
+    {
+        "nombre": "Ministerio de Desarrollo Social",
+        "acronimos": ["MDSF", "Mindefa", "Mindes"],
+    },
+    {
+        "nombre": "Ministerio de Educación",
+        "acronimos": ["Mineduc"],
+    },
+    {
+        "nombre": "Ministerio de Justicia y Derechos Humanos",
+        "acronimos": ["Minjusticia"],
+    },
+    {
+        "nombre": "Ministerio del Trabajo y Previsión Social",
+        "acronimos": ["Mintrab"],
+    },
+    {
+        "nombre": "Ministerio de Obras Públicas",
+        "acronimos": ["MOP"],
+    },
+    {
+        "nombre": "Ministerio de Salud",
+        "acronimos": ["Minsal"],
+    },
+    {
+        "nombre": "Ministerio de Vivienda y Urbanismo",
+        "acronimos": ["Minvu"],
+    },
+    {
+        "nombre": "Ministerio de Agricultura",
+        "acronimos": ["Minagri"],
+    },
+    {
+        "nombre": "Ministerio de Minería",
+        "acronimos": ["Minminería"],
+    },
+    {
+        "nombre": "Ministerio de Transporte y Telecomunicaciones",
+        "acronimos": ["MTT"],
+    },
+    {
+        "nombre": "Ministerio de Bienes Nacionales",
+        "acronimos": ["MBN"],
+    },
+    {
+        "nombre": "Ministerio de Energía",
+        "acronimos": ["Minenergía"],
+    },
+    {
+        "nombre": "Ministerio de Medio Ambiente",
+        "acronimos": ["MMA"],
+    },
+    {
+        "nombre": "Ministerio del Deporte",
+        "acronimos": ["Mindep"],
+    },
+    {
+        "nombre": "Ministerio de la Mujer y la Equidad de Género",
+        "acronimos": ["MIMEG", "MIMyEG", "MinMujeryEG"],
+    },
+    {
+        "nombre": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "acronimos": ["MinCAP"],
+    },
+    {
+        "nombre": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",
+        "acronimos": ["MICITEC", "Minciencia"],
+    }
+]
