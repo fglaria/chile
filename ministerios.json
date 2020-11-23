@@ -2,97 +2,121 @@
     {
         "nombre": "Ministerio del Interior y Seguridad Pública",
         "acronimos": ["Mininterior"],
+        "sedes": ["Agustinas 1235, piso 8, Santiago"],
     },
     {
         "nombre": "Ministerio de Relaciones Exteriores",
         "acronimos": ["Minrel", "Min. RR.EE."],
+        "sedes": ["Teatinos 180, Santiago"],
     },
     {
         "nombre": "Ministerio de Defensa Nacional",
         "acronimos": ["MDN", "Mindef"],
+        "sedes": ["Av. Libertador Bernardo O'Higgins, Zenteno 45, Santiago"],
     },
     {
         "nombre": "Ministerio de Hacienda",
         "acronimos": ["Minhacienda"],
+        "sedes": ["Teatinos 120, Santiago"],
     },
     {
         "nombre": "Ministerio Secretaría General de la Presidencia",
         "acronimos": ["MSGP-SEGPRES", "Minsegpres"],
+        "sedes": ["Moneda 1160, Santiago"],
     },
     {
         "nombre": "Ministerio Secretaria General de Gobierno",
         "acronimos": ["MSGG-Segegob", "Minsegegob"],
+        "sedes": ["Palacio de La Moneda, Moneda s/n, Santiago"],
     },
     {
         "nombre": "Ministerio de Economía, Fomento y Turismo",
         "acronimos": ["Mineco"],
+        "sedes": ["Av. Libertador Bernardo O'Higgins 1449, Santiago Downtown Torre II, piso 10, 11 y 12, Santiago"],
     },
     {
         "nombre": "Ministerio de Desarrollo Social",
         "acronimos": ["MDSF", "Mindefa", "Mindes"],
+        "sedes": ["Catedral 1575, Santiago"],
     },
     {
         "nombre": "Ministerio de Educación",
         "acronimos": ["Mineduc"],
+        "sedes": ["Av. Libertador Bernardo O'Higgins 1371, Santiago"],
     },
     {
         "nombre": "Ministerio de Justicia y Derechos Humanos",
         "acronimos": ["Minjusticia"],
+        "sedes": ["Morandé 107, Santiago"],
     },
     {
         "nombre": "Ministerio del Trabajo y Previsión Social",
         "acronimos": ["Mintrab"],
+        "sedes": ["Huérfanos 1273, Santiago"],
     },
     {
         "nombre": "Ministerio de Obras Públicas",
         "acronimos": ["MOP"],
+        "sedes": ["Morandé 59, Santiago"],
     },
     {
         "nombre": "Ministerio de Salud",
         "acronimos": ["Minsal"],
+        "sedes": ["Enrique Mac Iver 541, Santiago"],
     },
     {
         "nombre": "Ministerio de Vivienda y Urbanismo",
         "acronimos": ["Minvu"],
+        "sedes": ["Av. Libertador Bernardo O'Higgins 924, Santiago"],
     },
     {
         "nombre": "Ministerio de Agricultura",
         "acronimos": ["Minagri"],
+        "sedes": ["Teatinos 40, Santiago"],
     },
     {
         "nombre": "Ministerio de Minería",
         "acronimos": ["Minminería"],
+        "sedes": ["Amunátegui 232, Santiago"],
     },
     {
         "nombre": "Ministerio de Transporte y Telecomunicaciones",
         "acronimos": ["MTT"],
+        "sedes": ["Amunátegui 139, Santiago"],
     },
     {
         "nombre": "Ministerio de Bienes Nacionales",
         "acronimos": ["MBN"],
+        "sedes": ["Av. Libertador Bernardo O'Higgins 720, Santiago"],
     },
     {
         "nombre": "Ministerio de Energía",
         "acronimos": ["Minenergía"],
+        "sedes": ["Av. Bernardo O'Higgins 1449, pisos 13 y 14, Edificio Santiago Downtown II, Santiago"],
     },
     {
         "nombre": "Ministerio de Medio Ambiente",
         "acronimos": ["MMA"],
+        "sedes": ["San Martín 73, Santiago"],
     },
     {
         "nombre": "Ministerio del Deporte",
         "acronimos": ["Mindep"],
+        "sedes": ["Fidel Oteíza 1956, Piso 3 Providencia, Santiago"],
     },
     {
         "nombre": "Ministerio de la Mujer y la Equidad de Género",
         "acronimos": ["MIMEG", "MIMyEG", "MinMujeryEG"],
+        "sedes": ["Catedral 1401, piso 3, Santiago"],
     },
     {
         "nombre": "Ministerio de las Culturas, las Artes y el Patrimonio",
         "acronimos": ["MinCAP"],
+        "sedes": ["Plaza Sotomayor 233, Valparaíso", "Paseo Ahumada 48, pisos 4, 5, 6, 7, 8 y 11, Santiago"],
     },
     {
         "nombre": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",
         "acronimos": ["MICITEC", "Minciencia"],
+        "sedes": ["Palacio de La Moneda s/n, piso 2, ala sur poniente, Santiago"],
     }
 ]
