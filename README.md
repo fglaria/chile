@@ -3,8 +3,9 @@
 Este repositorio no tienen intención alguna de ser oficial, solo lo desarrollo por diversión.
 
 ## Estado
-- [Regiones](regiones.json)
-- [Ministerios](ministerios.json)
+- [Regiones](estado/regiones.json)
+- [Ministerios](estado/ministerios.json)
 
 ## Gobierno
-- [Gabinete](gabinete.json)
+- [Presidente](gobierno/presidente.json)
+- [Gabinete](gobierno/gabinete.json)
