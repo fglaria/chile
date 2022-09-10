@@ -1,0 +1,248 @@
+[
+    {
+        "miniterio": "Ministerio del Interior y Seguridad Pública",
+        "actual": {
+            "nombre": "Carolina Monserrat Tohá Morales",
+            "partido": "Partido por la Democracia",
+            "inicio": "06/09/2022"
+        },
+        "pasado":[
+            {
+                "nombre": "Izkia Jasvin Siches Pastén",
+                "partido": "Independiente",
+                "inicio": "11/03/2022",
+                "fin": "06/09/2022"
+            }
+        ]
+    },
+    {
+        "miniterio": "Ministerio de Relaciones Exteriores",
+        "actual": {
+            "nombre": "Antonia Urrejola Noguera",
+            "partido": "Independiente - Partido Socialista de Chile",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Defensa Nacional",
+        "actual": {
+            "nombre": "Maya Alejandra Fernández Allende",
+            "partido": "Partido Socialista de Chile",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Hacienda",
+        "actual": {
+            "nombre": "Mario Marcel Cullell",
+            "partido": "Independiente - Partido Socialista de Chile",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio Secretaría General de la Presidencia",
+        "actual": {
+            "nombre": "Ana Lya Uriarte Rodríguez",
+            "partido": "Partido Socialista de Chile",
+            "inicio": "06/09/2022"
+        },
+        "pasado":[
+            {
+                "nombre": "Kenneth Giorgio Jackson Drago",
+                "partido": "Revolución Democrática",
+                "inicio": "11/03/2022",
+                "fin": "06/09/2022"
+            }
+        ]
+    },
+    {
+        "miniterio": "Ministerio Secretaria General de Gobierno",
+        "actual": {
+            "nombre": "Camila Antonia Amaranta Vallejo Dowling",
+            "partido": "Partido Comunistade Chile",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Economía, Fomento y Turismo",
+        "actual": {
+            "nombre": "Nicolás Andrés Grau Veloso",
+            "partido": "Convergencia Social",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Desarrollo Social",
+        "actual": {
+            "nombre": "Kenneth Giorgio Jackson Drago",
+            "partido": "Revolución Democrática",
+            "inicio": "06/09/2022"
+        },
+        "pasado":[
+            {
+                "nombre": "Paula Poblete Maureira",
+                "partido": "Revolución Democrática",
+                "tipo": "subrogante",
+                "inicio": "25/08/2022",
+                "fin": "06/09/2022"
+            },{
+                "nombre": "Jeanette del Rosario Vega Morales",
+                "partido": "Partido por la Democracia",
+                "inicio": "11/03/2022",
+                "fin": "25/08/2022"
+            }
+        ]
+    },
+    {
+        "miniterio": "Ministerio de Educación",
+        "actual": {
+            "nombre": "Marco Antonio Ávila Lavanal",
+            "partido": "Revolución Democrática",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Justicia y Derechos Humanos",
+        "actual": {
+            "nombre": "Marcela Alejandra Ríos Tobar",
+            "partido": "Convergencia Social",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio del Trabajo y Previsión Social",
+        "actual": {
+            "nombre": "Jeannette Alejandra Jara Román",
+            "partido": "Partido Comunista",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Obras Públicas",
+        "actual": {
+            "nombre": "Juan Carlos García Pérez de Arce",
+            "partido": "Partido Liberal de Chile",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Salud",
+        "actual": {
+            "nombre": "Ximena Paz Aguilera Sanhueza",
+            "partido": "Independiente",
+            "inicio": "06/09/2022"
+        },
+        "pasado":[
+            {
+                "nombre": "María Begoña Yarza Sáez",
+                "partido": "Independiente - Partido Socialista de Chile",
+                "inicio": "11/03/2022",
+                "fin": "06/09/2022"
+            }
+        ]
+    },
+    {
+        "miniterio": "Ministerio de Vivienda y Urbanismo",
+        "actual": {
+            "nombre": "Carlos EduaRevolución Democráticao Montes Cisternas",
+            "partido": "Partido Socialista de Chile",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Agricultura",
+        "actual": {
+            "nombre": "Esteban Manuel Valenzuela Van Treek",
+            "partido": "Federación Regionalista Frente Social",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Minería",
+        "actual": {
+            "nombre": "Marcela Ximena Hernando Pérez",
+            "partido": "Partido Radical de Chile",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Transporte y Telecomunicaciones",
+        "actual": {
+            "nombre": "Juan Carlos Muñoz Abogabir",
+            "partido": "Independiente",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Bienes Nacionales",
+        "actual": {
+            "nombre": "Javiera Alejandra Toro Cáceres",
+            "partido": "COM",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Energía",
+        "actual": {
+            "nombre": "Diego Gonzalo PaRevolución Democráticaow Lorenzo",
+            "partido": "Convergencia Social",
+            "inicio": "06/09/2022"
+        },
+        "pasado":[
+            {
+                "nombre": "Claudio Alberto Huepe Minoletti",
+                "partido": "Convergencia Social",
+                "inicio": "11/03/2022",
+                "fin": "06/09/2022"
+            }
+        ]
+    },
+    {
+        "miniterio": "Ministerio de Medio Ambiente",
+        "actual": {
+            "nombre": "Maisa Heloísa Juana Rojas Corradi",
+            "partido": "Independiente",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio del Deporte",
+        "actual": {
+            "nombre": "Alexandra Benado Vergara",
+            "partido": "Independiente",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de la Mujer y la Equidad de Género",
+        "actual": {
+            "nombre": "Antonia Cósmica Orellana Guarello",
+            "partido": "Convergencia Social",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "actual": {
+            "nombre": "Julieta Brodsky Hernández",
+            "partido": "Convergencia Social",
+            "inicio": "11/03/2022"
+        }
+    },
+    {
+        "miniterio": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",
+        "actual": {
+            "nombre": "Silvia Andrea Díaz Acosta",
+            "partido": "Independiente - Partido Socialista de Chile",
+            "inicio": "06/09/2022"
+        },
+        "pasado":[
+            {
+                "nombre": "Flavio Salazar Onfray",
+                "partido": "Partido Comunista",
+                "inicio": "11/03/2022",
+                "fin": "06/09/2022"
+            }
+        ]
+    }
+]
