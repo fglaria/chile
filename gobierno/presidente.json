@@ -1,6 +1,75 @@
 {
-    "nombre": "Gabriel Boric Font",
-    "partido": "Convergencia Social",
-    "nacimiento": "11/02/1985",
-    "inicio": "11/03/2022"
+    "actual": {
+        "nombre": "Gabriel Boric Font",
+        "partido": "Convergencia Social",
+        "nacimiento": "11/02/1985",
+        "inicio": "11/03/2022",
+        "cargo": "Presidente de la República",
+        "método": "Elección"
+    },
+    "pasados": [
+        {
+            "nombre": "Miguel Juan Sebastián Piñera Echenique",
+            "partido": "Renovación Nacional",
+            "nacimiento": "01/12/1949",
+            "inicio": "11/03/2018",
+            "fin": "11/03/2022",
+            "cargo": "Presidente de la República",
+            "método": "Elección"
+        },
+        {
+            "nombre": "Verónica Michelle Bachelet Jeria",
+            "partido": "Partido Socialista",
+            "nacimiento": "29/09/1951",
+            "inicio": "11/03/2014",
+            "fin": "11/03/2018",
+            "cargo": "Presidente de la República",
+            "método": "Elección"
+        },
+        {
+            "nombre": "Miguel Juan Sebastián Piñera Echenique",
+            "partido": "Renovación Nacional",
+            "nacimiento": "01/12/1949",
+            "inicio": "11/03/2010",
+            "fin": "11/03/2014",
+            "cargo": "Presidente de la República",
+            "método": "Elección"
+        },
+        {
+            "nombre": "Verónica Michelle Bachelet Jeria",
+            "partido": "Partido Socialista",
+            "nacimiento": "29/09/1951",
+            "inicio": "11/03/2006",
+            "fin": "11/03/2010",
+            "cargo": "Presidente de la República",
+            "método": "Elección"
+        },
+        {
+            "nombre": "Ricardo Froilán Lagos Escobar",
+            "partido": "Partido Socialista",
+            "nacimiento": "02/03/1938",
+            "inicio": "11/03/2000",
+            "fin": "11/03/2006",
+            "cargo": "Presidente de la República",
+            "método": "Elección"
+        },
+        {
+            "nombre": "Eduardo Alfredo Juan Bernardo Frei Ruiz-Tagle",
+            "partido": "Democracia Cristiana",
+            "nacimiento": "24/06/1942",
+            "inicio": "11/03/1994",
+            "fin": "11/03/2000",
+            "cargo": "Presidente de la República",
+            "método": "Elección"
+        },
+        {
+            "nombre": "Miguel Patricio Aylwin Azócar",
+            "partido": "Democracia Cristiana",
+            "nacimiento": "26/11/1918",
+            "inicio": "11/03/1990",
+            "fin": "11/03/1994",
+            "cargo": "Presidente de la República",
+            "método": "Elección"
+        }
+    ]
 }
