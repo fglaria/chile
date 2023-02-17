@@ -9,3 +9,6 @@ Este repositorio no tienen intención alguna de ser oficial, solo lo desarrollo 
 ## Gobierno
 - [Presidente](gobierno/presidente.json)
 - [Gabinete](gobierno/gabinete.json)
+
+## Historia
+- [Presidentes](historia/presidentes.json)
