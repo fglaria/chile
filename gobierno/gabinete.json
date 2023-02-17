@@ -104,10 +104,25 @@
     {
         "miniterio": "Ministerio de Justicia y Derechos Humanos",
         "actual": {
-            "nombre": "Marcela Alejandra Ríos Tobar",
-            "partido": "Convergencia Social",
-            "inicio": "11/03/2022"
-        }
+            "nombre": "Luis Cordero Vega",
+            "partido": "Independiente",
+            "inicio": "11/01/2023"
+        },
+        "pasado":[
+            {
+                "nombre": "Jaime Gajardo Falcón",
+                "partido": "Partido Comunista",
+                "tipo": "subrogante",
+                "inicio": "07/01/2023",
+                "fin": "11/01/2023"
+            },
+            {
+                "nombre": "Marcela Alejandra Ríos Tobar",
+                "partido": "Convergencia Social",
+                "inicio": "11/03/2022",
+                "fin": "07/01/2023"
+            }
+        ]
     },
     {
         "miniterio": "Ministerio del Trabajo y Previsión Social",
@@ -144,7 +159,7 @@
     {
         "miniterio": "Ministerio de Vivienda y Urbanismo",
         "actual": {
-            "nombre": "Carlos EduaRevolución Democráticao Montes Cisternas",
+            "nombre": "Carlos Eduardo Montes Cisternas",
             "partido": "Partido Socialista de Chile",
             "inicio": "11/03/2022"
         }
