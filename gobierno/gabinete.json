@@ -18,10 +18,18 @@
     {
         "miniterio": "Ministerio de Relaciones Exteriores",
         "actual": {
-            "nombre": "Antonia Urrejola Noguera",
-            "partido": "Independiente - Partido Socialista de Chile",
-            "inicio": "11/03/2022"
-        }
+            "nombre": "Alberto Leo van Klaveren Stork",
+            "partido": "Independiente",
+            "inicio": "10/03/2023"
+        },
+        "pasado":[
+            {
+                "nombre": "Antonia Urrejola Noguera",
+                "partido": "Independiente - Partido Socialista de Chile",
+                "inicio": "11/03/2022",
+                "fin": "10/03/2023"
+            }
+        ]
     },
     {
         "miniterio": "Ministerio de Defensa Nacional",
@@ -135,10 +143,18 @@
     {
         "miniterio": "Ministerio de Obras Públicas",
         "actual": {
-            "nombre": "Juan Carlos García Pérez de Arce",
-            "partido": "Partido Liberal de Chile",
-            "inicio": "11/03/2022"
-        }
+            "nombre": "Jessica Teresa López Saffie",
+            "partido": "Partido Socialista de Chile",
+            "inicio": "10/03/2023"
+        },
+        "pasado":[
+            {
+                "nombre": "Juan Carlos García Pérez de Arce",
+                "partido": "Partido Liberal de Chile",
+                "inicio": "11/03/2022",
+                "fin": "10/03/2023"
+            }
+        ]
     },
     {
         "miniterio": "Ministerio de Salud",
@@ -199,7 +215,7 @@
     {
         "miniterio": "Ministerio de Energía",
         "actual": {
-            "nombre": "Diego Gonzalo PaRevolución Democráticaow Lorenzo",
+            "nombre": "Diego Gonzalo Paow Lorenzo",
             "partido": "Convergencia Social",
             "inicio": "06/09/2022"
         },
@@ -223,10 +239,18 @@
     {
         "miniterio": "Ministerio del Deporte",
         "actual": {
-            "nombre": "Alexandra Benado Vergara",
-            "partido": "Independiente",
-            "inicio": "11/03/2022"
-        }
+            "nombre": "Jaime Augusto Pizarro Herrera",
+            "partido": "Independiente - PPD",
+            "inicio": "10/03/2023"
+        },
+        "pasado":[
+            {
+                "nombre": "Alexandra Benado Vergara",
+                "partido": "Independiente",
+                "inicio": "11/03/2022",
+                "fin": "10/03/2023"
+            }
+        ]
     },
     {
         "miniterio": "Ministerio de la Mujer y la Equidad de Género",
@@ -239,17 +263,25 @@
     {
         "miniterio": "Ministerio de las Culturas, las Artes y el Patrimonio",
         "actual": {
-            "nombre": "Julieta Brodsky Hernández",
-            "partido": "Convergencia Social",
-            "inicio": "11/03/2022"
-        }
+            "nombre": "Jaime Augusto de Aguirre Höffa",
+            "partido": "Independiente",
+            "inicio": "10/03/2023"
+        },
+        "pasado":[
+            {
+                "nombre": "Julieta Brodsky Hernández",
+                "partido": "Convergencia Social",
+                "inicio": "11/03/2022",
+                "fin": "10/03/2023"
+            }
+        ]
     },
     {
         "miniterio": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",
         "actual": {
-            "nombre": "Silvia Andrea Díaz Acosta",
-            "partido": "Independiente - Partido Socialista de Chile",
-            "inicio": "06/09/2022"
+            "nombre": "Aisén Etcheverry",
+            "partido": "Independiente",
+            "inicio": "10/03/2023"
         },
         "pasado":[
             {
@@ -257,6 +289,12 @@
                 "partido": "Partido Comunista",
                 "inicio": "11/03/2022",
                 "fin": "06/09/2022"
+            },
+            {
+                "nombre": "Silvia Andrea Díaz Acosta",
+                "partido": "Independiente - Partido Socialista de Chile",
+                "inicio": "06/09/2022",
+                "fin": "10/03/2023"
             }
         ]
     }
