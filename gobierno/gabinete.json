@@ -50,11 +50,17 @@
     {
         "miniterio": "Ministerio Secretaría General de la Presidencia",
         "actual": {
-            "nombre": "Ana Lya Uriarte Rodríguez",
+            "nombre": "Álvaro Antonio Elizalde Soto",
             "partido": "Partido Socialista de Chile",
-            "inicio": "06/09/2022"
+            "inicio": "19/04/2023"
         },
         "pasado":[
+            {
+                "nombre": "Ana Lya Uriarte Rodríguez",
+                "partido": "Partido Socialista de Chile",
+                "inicio": "06/09/2022",
+                "fin": "19/04/2023"
+            },
             {
                 "nombre": "Kenneth Giorgio Jackson Drago",
                 "partido": "Revolución Democrática",
@@ -215,7 +221,7 @@
     {
         "miniterio": "Ministerio de Energía",
         "actual": {
-            "nombre": "Diego Gonzalo Paow Lorenzo",
+            "nombre": "Diego Gonzalo Pardow Lorenzo",
             "partido": "Convergencia Social",
             "inicio": "06/09/2022"
         },
